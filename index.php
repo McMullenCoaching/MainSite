@@ -1,11 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-
-
-<head>
-    <?php include 'headermmcoaching.php'; ?>
-</head>
-
+<?php include('headermmcoaching.php'); ?>
 
 
         <body>
@@ -214,6 +209,6 @@
         </div>
     </div>
 
-    <footer><?php include('footer.php'); ?></footer>
+<?php include('footer.php'); ?>
 </body>
 </html>
