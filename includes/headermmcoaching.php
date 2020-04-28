@@ -1,21 +1,22 @@
 ﻿
-<head>
-    <title>McMullen Coaching & Consulting, LLC</title>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Zug+QiDoJOrZ5t4lssLdxGhVrurbmBWopoEl+M6BdEfwnCJZtKxi1KgxUyJq13dy" crossorigin="anonymous">
-    <link rel="stylesheet" href="css/material-icons.css">
-    <link rel="stylesheet" href="index.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-    <script src=""></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.6/umd/popper.min.js"></script>
-    <script src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
-    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js" type="text/javascript"></script>
-    <script src="jquery.localscroll.js" type="text/javascript"></script>
-    <script src="jquery.scrollTo.js" type="text/javascript"></script>
-    </head>
 
+
+<head>
+
+<title>McMullen Coaching & Consulting, LLC</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Zug+QiDoJOrZ5t4lssLdxGhVrurbmBWopoEl+M6BdEfwnCJZtKxi1KgxUyJq13dy" crossorigin="anonymous">
+        <link rel="stylesheet" href="css/material-icons.css">
+        <link rel="stylesheet" href="index.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+        <script src=""></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.6/umd/popper.min.js"></script>
+        <script src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js" type="text/javascript"></script>
+        <script src="jquery.localscroll.js" type="text/javascript"></script>
+        <script src="jquery.scrollTo.js" type="text/javascript"></script>
 
     <div class="header_photo_container">
         <img class="header_photo" src="https://images.pexels.com/photos/533923/pexels-photo-533923.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=450&w=940">
@@ -91,9 +92,9 @@
         </nav>
     </div>
 
- <div class="alert alert-danger">
-        <a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
-        <strong>Coronavirus Update!</strong> Please stay safe and quarantined during this time. Feel free to <a href="file:///Users/derekmcmullen/Documents/GitHub/MainSite/index.html#footer">book a vitual meeting today!</a>
+    <div class="alert alert-danger">
+            <a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
+            <strong>Coronavirus Update!</strong> Please stay safe and quarantined during this time. Feel free to <a href="file:///Users/derekmcmullen/Documents/GitHub/MainSite/index.html#footer">book a vitual meeting today!</a>
     </div>
 
     <div data-spy="scroll" data-target="#navbarscrollspy" data-offset="0">
@@ -102,3 +103,5 @@
                 $('#nav').localScroll({ duration: 8000 });
             });</script>
     </div>
+</head>
+<body>
