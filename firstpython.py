@@ -1,6 +1,4 @@
-﻿%%time
-
-n_pages = 0
+﻿n_pages = 0
 
 for page in range(0,900):
     n_pages += 1
@@ -77,3 +75,4 @@ for page in range(0,900):
     sleep(randint(1,2))
     
 print('You scraped {} pages containing {} properties.'.format(n_pages, len(titles)))
+
