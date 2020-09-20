@@ -6,7 +6,7 @@
 
     $email_from = 'mcmullencoaching-inquiries@gmail.com';
 
-    $email_subject = "New Coaching Inquiry";
+    $email_subject = "New Coaching Inquiry from $firstname $lastname";
 
     $email_body = "First Name: $firstname.\n".
                     "Last Name: $lastname.\n".
@@ -19,7 +19,7 @@
 
     $headers = "Reply-To: $visitor_email\r\n";
 
-    mail($to,$email_subject,$message,,$headers);
+    mail($to,$email_subject,$message,$headers);
 
     header("Location: McMullen Coaching Site Total.html");
 ?>
